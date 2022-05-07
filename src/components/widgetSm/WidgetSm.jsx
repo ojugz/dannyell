@@ -9,13 +9,13 @@ export default function WidgetSm() {
       <ul className="widgetSmList">
         <li className="widgetSmListItem">
           <img
-            src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            src="https://stylecaster.com/wp-content/uploads/2022/02/eminem-net-worth.png"
             alt=""
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername">Daniel James</span>
-            <span className="widgetSmUserTitle">Data Engineer</span>
+            <span className="widgetSmUsername">Martial Eminem</span>
+            <span className="widgetSmUserTitle">Rap God</span>
           </div>
           <button className="widgetSmButton">
             <Visibility className="widgetSmIcon" />
@@ -24,13 +24,13 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            src="https://static.parade.com/wp-content/uploads/2020/12/jayz.jpg"
             alt=""
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername">Anna Keller</span>
-            <span className="widgetSmUserTitle">Software Engineer</span>
+            <span className="widgetSmUsername">Jay-Z</span>
+            <span className="widgetSmUserTitle">Commercial Rapper</span>
           </div>
           <button className="widgetSmButton">
             <Visibility className="widgetSmIcon" />
